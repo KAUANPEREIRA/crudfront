@@ -2,7 +2,7 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
 import Link from "next/link";
-import Header from "@/componentes/header";
+import Header from "@/componentes/Header";
 import Footer from "@/componentes/Footer";
 
 interface Usuario {
