@@ -2,7 +2,7 @@
 import { useState } from "react";
 import axios from "axios";
 import { useRouter } from "next/router";
-import Header from "@/componentes/header";
+import Header from "@/componentes/Header";
 import Footer from "@/componentes/Footer";
 
 export default function Cadastrar() {
